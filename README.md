@@ -4,8 +4,8 @@
 
 ## 代码片段
 
-![服务端截图](screenshot/代码片段.png)
+![代码片段](screenshot/代码片段.png)
 
 ## 运行截图
 
-![客户端截图](screenshot/客户端.png)
+![运行截图](screenshot/运行截图.png)
